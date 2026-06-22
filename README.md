@@ -97,11 +97,6 @@ Developed during the Nirman National-Level Hackathon to streamline grievance reg
 
 **Achievement:** Secured 4th Position at Nirman National-Level Hackathon.
 
----
-
-### 💻 ByteCamp Hackathon Project
-
-Built an innovative solution focused on solving real-world challenges through rapid prototyping, teamwork, and technology-driven development.
 
 ---
 
