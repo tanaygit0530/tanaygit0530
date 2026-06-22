@@ -10,6 +10,32 @@ Software Developer • MERN Stack Developer • Hackathon Enthusiast
 
 ---
 
+## 🌍 Beyond Coding
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/airplane-take-off.png" width="70"/><br>
+<b>Traveling</b><br>
+Exploring new places, cultures, and experiences
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="70"/><br>
+<b>Development</b><br>
+Building full-stack applications and solving real-world problems
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/trophy.png" width="70"/><br>
+<b>Hackathons</b><br>
+Competing, innovating, and collaborating to build impactful solutions
+</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 About Me
 
 🎓 Third-Year B.E. Information Technology Student at VESIT
@@ -33,25 +59,32 @@ Software Developer • MERN Stack Developer • Hackathon Enthusiast
 ## 💻 Tech Stack
 
 ### Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
 ### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
 ### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
@@ -77,7 +110,7 @@ Software Developer • MERN Stack Developer • Hackathon Enthusiast
 
 ### 🛒 MobKart
 
-A full-stack e-commerce platform with authentication, product management, shopping cart functionality, and responsive design.
+A full-stack e-commerce platform with authentication, Google OAuth, shopping cart functionality, and product management.
 
 **Tech Stack:** MongoDB, Express.js, Node.js, Bootstrap, Passport.js
 
@@ -97,6 +130,11 @@ Developed during the Nirman National-Level Hackathon to streamline grievance reg
 
 **Achievement:** Secured 4th Position at Nirman National-Level Hackathon.
 
+---
+
+### 💻 ByteCamp Hackathon Project
+
+Built an innovative solution focused on solving real-world challenges through rapid prototyping, teamwork, and technology-driven development.
 
 ---
 
