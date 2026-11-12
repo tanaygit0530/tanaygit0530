@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/tanaygit0530"><img src="assets/btn-github.svg?v=3" height="46" alt="GitHub" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/tanay-patil-872767371/"><img src="assets/btn-linkedin.svg?v=3" height="46" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="mailto:tanaypatil0530@gmail.com"><img src="assets/btn-gmail.svg?v=3" height="46" alt="Gmail" /></a>&nbsp;&nbsp;
-<a href="https://YOUR-PORTFOLIO-LINK"><img src="assets/btn-portfolio.svg?v=3" height="46" alt="Portfolio" /></a>
+<a href="https://tanay-patil-portfolio.vercel.app"><img src="assets/btn-portfolio.svg?v=3" height="46" alt="Portfolio" /></a>
 
 <img src="assets/title-tech.svg?v=3" width="100%" alt="Tech Stack" />
 
