@@ -18,7 +18,21 @@ def write(name, content):
 
 
 # ---------------------------------------------------------------- header
+def portrait_image(path):
+    # Embedded as a data URI: GitHub renders SVGs as <img>, which blocks external files.
+    import base64, struct
+    data = path.read_bytes()
+    w, h = struct.unpack(">II", data[16:24])          # PNG IHDR width/height
+    top, bottom, cx = 18, 338, 228
+    dh = bottom - top
+    dw = dh * w / h
+    uri = "data:image/png;base64," + base64.b64encode(data).decode()
+    return f'<image x="{cx - dw / 2:.1f}" y="{top}" width="{dw:.1f}" height="{dh}" href="{uri}"/>'
+
+
 def header():
+    if (ASSETS / "portrait.png").exists():
+        return header_with(portrait_image(ASSETS / "portrait.png"))
     lines = (ASSETS / "portrait.txt").read_text().rstrip("\n").split("\n")
     cols = max(len(l) for l in lines)
     px_w, top, bottom = 345, 34, 336           # portrait box
@@ -31,7 +45,10 @@ def header():
                    f'xml:space="preserve">{escape(l)}</text>')
     art = (f'<g font-family="Menlo, Consolas, \'DejaVu Sans Mono\', \'Courier New\', monospace" '
            f'font-size="{fs:.2f}" fill="#e6e8ee">{"".join(art)}</g>')
+    header_with(art)
 
+
+def header_with(art):
     rows = [("cap", "Third-Year B.Tech IT Student   |   CGPA: 9.03/10"),
             ("building", "Jr Technical Officer @ ISTE-VESIT (2026 – Present)"),
             ("code", "Full-Stack Developer   |   Hackathon Enthusiast"),
