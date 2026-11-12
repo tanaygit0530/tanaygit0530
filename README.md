@@ -1,137 +1,105 @@
-<h1 align="center">Hi 👋, I'm Tanay Patil</h1>
+<!-- ===================== HEADER ===================== -->
+<table>
+  <tr>
+    <td width="38%" align="center">
+      <img src="https://github.com/tanaygit0530.png" alt="Tanay Patil" width="230" style="border-radius:50%" />
+    </td>
+    <td width="62%">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=40&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=420&height=60&lines=Tanay+Patil+_" alt="Tanay Patil" />
+      </a>
+      <h3>B.Tech IT (Third Year) @ VESIT, Mumbai</h3>
+      🎓 &nbsp;Third-Year B.Tech IT Student &nbsp;|&nbsp; <b>CGPA: 9.03/10</b><br/><br/>
+      🏛️ &nbsp;Jr Technical Officer @ ISTE-VESIT (2026 – Present)<br/><br/>
+      💻 &nbsp;Full-Stack Developer &nbsp;|&nbsp; Hackathon Enthusiast<br/><br/>
+      📍 &nbsp;Mumbai, India
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">
-Software Developer • MERN Stack Developer • Hackathon Enthusiast
-</h3>
+<!-- ===================== CONNECT ===================== -->
+## 🔗 Connect With Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;MERN+Stack+Developer;Hackathon+Enthusiast;SE+Technical+Officer+%40+ISTE+VESIT" alt="Typing SVG" />
+<p align="left">
+  <a href="https://github.com/tanaygit0530"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tanaypatil0530@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
----
+<!-- ===================== TECH STACK ===================== -->
+## 🖥️ Tech Stack
 
-## 🚀 About Me
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,express,mongodb,firebase,supabase,postgres,docker,aws,git&theme=dark" alt="Tech stack row 1" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,vite,fastapi,figma,vscode,github&theme=dark" alt="Tech stack row 2" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="48" alt="Cloudinary" />
+</p>
 
-🎓 Third-Year B.E. Information Technology Student at VESIT
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Stats
 
-📊 CGPA: **9.03/10**
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=tanaygit0530&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://ghchart.rshah.org/39d353/tanaygit0530" alt="Contribution Graph" />
+    </td>
+  </tr>
+</table>
 
-💼 Software Development Intern at **Electrolyte Solutions**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanaygit0530&theme=github-compact&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+</p>
 
-🏆 Top 6 Finalist – Genesis Hackathon
-
-🥈 4th Position – Nirman National-Level Hackathon
-
-🎯 SE Technical Officer – ISTE VESIT
-
-🌱 Currently exploring AI-powered applications, Full Stack Development, and System Design
-
-📍 Mumbai, India
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-13AA52?style=for-the-badge)
-
----
-
+<!-- ===================== EXPERIENCE ===================== -->
 ## 💼 Experience
 
-### Software Development Intern | Electrolyte Solutions
+**Software Development Intern** — *Electrolyte Solutions, Mumbai* &nbsp;·&nbsp; `Oct 2025 – Apr 2026`
+- Redesigned and optimized internal application workflows for the **Bajaj project**, improving usability and reducing task completion time.
+- Built and enhanced **TagEntry** and **OCR-based document scanning** features, increasing structured data capture accuracy.
+- Partnered with frontend and backend engineers to resolve UI/UX issues and ship performance improvements.
 
-**Project: AI-Powered Data Processing System**
+**Web Development Intern** — *Kukreja – WAStec Project, Mumbai* &nbsp;·&nbsp; `Dec 2025 – Jan 2026`
+- Built and shipped pages for an eco-friendly e-commerce platform using the **MERN stack**.
+- Researched and integrated AI tools and modern web technologies to improve performance and UX.
+- Prepared technical documentation and live demo prototypes for company workshops.
 
-- Developed OCR-based document processing workflows.
-- Implemented TagEntry functionality for structured data extraction.
-- Improved internal workflows and application performance.
-- Collaborated with frontend and backend teams to deliver scalable solutions.
+<!-- ===================== LEADERSHIP ===================== -->
+## 🏛️ Leadership
 
----
+- **Jr Technical Officer** @ ISTE-VESIT &nbsp;·&nbsp; `June 2026 – Present` — Organizing technical events & workshops, building prototypes, and guiding participants hands-on.
+- **SE Technical Officer** @ ISTE-VESIT &nbsp;·&nbsp; `Sept 2025 – June 2026` — Built and tested project prototypes for live demos at workshops and events.
 
+<!-- ===================== PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
-### 🛒 MobKart
+| Project | Description | Tech |
+|---|---|---|
+| [**NagarVaani**](https://github.com/tanaygit0530) <br/> AI Civic Grievance Platform | AI-driven complaint deduplication, clustering, spam filtering & multilingual support. Aam Aadmi Trust Score (AATS), crowd validation, AI proof-of-resolution with GPS verification, and encrypted whistleblower reporting. | React · Node.js · Supabase · Gemini API · Leaflet |
+| [**NexusAgent**](https://github.com/tanaygit0530) <br/> AI IT Support Automation | Converts WhatsApp & Email queries into structured support tickets using Agentic AI and n8n workflows, with a live React admin dashboard, analytics and one-click Excel export. | FastAPI · React · Gemini Pro · n8n |
 
-A full-stack e-commerce platform with authentication, product management, shopping cart functionality, and responsive design.
+<!-- ===================== ABOUT ===================== -->
+## 👤 More About Me
 
-**Tech Stack:** MongoDB, Express.js, Node.js, Bootstrap, Passport.js
-
-🔗 Repository: [MobKart](https://github.com/tanaygit0530/MobKart)
-
----
-
-### 🏕️ YelpCamp
-
-A campground review and discovery platform featuring authentication, image uploads, reviews, and map integration.
-
-**Tech Stack:** Node.js, Express.js, MongoDB, Cloudinary, MapTiler
-
-🔗 Repository: [YelpCamp](https://github.com/tanaygit0530/YelpCamp)
-
----
-
-### 🏛️ Smart Grievance Redressal Platform
-
-Developed during the Nirman National-Level Hackathon to streamline grievance registration, tracking, and resolution between citizens and government departments.
-
-**Achievement:** Secured 4th Position at Nirman National-Level Hackathon.
-
-🔗 Repository: [Nagarvaani](https://github.com/tanaygit0530/NirmanHack26)
-
----
-
-## 🏆 Achievements
-
-- 🥈 4th Position – Nirman National-Level Hackathon
-- 🏅 Top 6 Finalist – Genesis Hackathon
-- 🎯 SE Technical Officer – ISTE VESIT
-
----
-
-## 📈 GitHub Stats
+<table>
+  <tr>
+    <td width="70%">
+      🚀 &nbsp;I love building real-world products that solve practical problems.<br/><br/>
+      🧩 &nbsp;Interested in Full-Stack Development, DSA, DBMS, and AI Systems (RAG, OCR).<br/><br/>
+      🏆 &nbsp;1st Runner-Up @ SYRUS 7.0 &nbsp;|&nbsp; 2nd Runner-Up @ Genesis 2.0<br/><br/>
+      🥇 &nbsp;4th Position @ Nirman National-Level Hackathon &nbsp;|&nbsp; Top 6 Finalist @ Genesis Hackathon<br/><br/>
+      🏔️ &nbsp;Outside tech, I enjoy travelling, trekking, and riding.
+    </td>
+    <td width="30%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanaygit0530&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanaygit0530&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=tanaygit0530&color=7c3aed&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **tanaypatil0530@gmail.com**
-
-💼 LinkedIn: **www.linkedin.com/in/tanay-patil-872767371**
-
-🐙 GitHub: **github.com/tanaygit0530**
-
----
-
-<p align="center">
-  ⭐ Always learning, building, and contributing.
-</p> add links in this also for the projects
